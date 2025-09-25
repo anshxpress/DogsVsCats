@@ -12,6 +12,9 @@ This project trains a Convolutional Neural Network (CNN) to classify images of d
 - `DogvsCats.ipynb` – main notebook: data loading, model, training, evaluation, predictions
 - `README.md` – this file
 
+### Dataset
+- The dataset used can be obtained from Kaggle: [Dogs vs Cats (salader)](https://www.kaggle.com/datasets/salader/dogsvscats).
+
 ### Tech Stack
 - TensorFlow/Keras (CNN with `Sequential` API)
 - Image preprocessing via `ImageDataGenerator`
